@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/GamerPro/CLionProjects/proj/SPLINES.H
+
+C:/Users/GamerPro/CLionProjects/proj/lagrange.h
+
+C:/Users/GamerPro/CLionProjects/proj/main.cpp
+iostream
+-
+lagrange.h
+C:/Users/GamerPro/CLionProjects/proj/lagrange.h
+SPLINES.H
+C:/Users/GamerPro/CLionProjects/proj/SPLINES.H
+quanc8.h
+C:/Users/GamerPro/CLionProjects/proj/quanc8.h
+
+C:/Users/GamerPro/CLionProjects/proj/quanc8.h
+
